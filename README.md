@@ -61,7 +61,7 @@ The application should now be running locally.
 
 2. Browse the food items displayed on the menu.
 
-3. Use the category filter buttons to filter food items based on specific categories (e.g., "Appetizers," "Main Courses," "Desserts").
+3. Use the category filter buttons to filter food items based on specific categories.
 
 4. Enjoy exploring the menu!
 
