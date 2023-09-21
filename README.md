@@ -2,7 +2,7 @@ Certainly, here's the modified `README.md` template to reflect that you're using
 
 # Food Menu App with Category Filters (React.js)
 
-![App Screenshot](screenshot.png)
+
 
 ## Table of Contents
 
